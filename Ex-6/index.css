@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body :hover {
+    font-family: 'Times New Roman', Times, serif;
+    color: chartreuse;
+}
+
+ol {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
