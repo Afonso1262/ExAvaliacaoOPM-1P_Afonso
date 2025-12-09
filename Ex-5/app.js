@@ -39,9 +39,6 @@ if (adivinhar > 10 || adivinhar <= 0) {
             tentativas - 1
         }
     }
+} if (tentativas = 0) {
+    ganhou = true
 }
-
-
-// else if (tentativas === 0){
-//                ganhou = true
-//         }
